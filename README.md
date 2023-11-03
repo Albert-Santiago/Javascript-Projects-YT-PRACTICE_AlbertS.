@@ -3,7 +3,7 @@
 
 ---
 
->25 Beginner JavaScript projects
+>18 Beginner JavaScript projects
 
 <details>
 <summary>Beginner</summary>
