@@ -37,7 +37,7 @@
 ---
 
 <details>
-<summary>Advance</summary>
+<summary>30Day Javascript</summary>
 
 | Project #  | Project Name |                                                      Repository                                                    | Live Preview |
 |------------|--------------|--------------------------------------------------------------------------------------------------------------------|--------------|
